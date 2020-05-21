@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://proud-sand-08fb93100.azurestaticapps.net/private/</loc>
-    <lastmod>2020-05-22T00:17:19+09:00</lastmod>
+    <loc>https://proud-sand-08fb93100.azurestaticapps.net/login/</loc>
+    <lastmod>2020-05-22T02:23:27+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://proud-sand-08fb93100.azurestaticapps.net/</loc>
+    <lastmod>2020-05-22T02:23:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://proud-sand-08fb93100.azurestaticapps.net/private/</loc>
     <lastmod>2020-05-22T00:17:19+09:00</lastmod>
   </url>
   
