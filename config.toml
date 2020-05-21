@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "ja-jp"
+title = "Static Webapps Hugo Sample"
+
+theme = "hugo-theme-mixedpaper"
