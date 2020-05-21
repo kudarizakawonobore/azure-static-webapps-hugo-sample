@@ -1,0 +1,23 @@
+{
+    "routes": [
+        {
+            "route": "/*",
+            "serve": "/index.html",
+            "statusCode": 200
+        },
+        {
+            "route": "/login",
+            "serve": "/.auth/login/aad"
+        },
+        {
+            "route": "/private/*",
+            "allowedRoles": ["authenticated"]
+        }
+    ],
+    "platformErrorOverrides": [
+        {
+            "errorType": "Unauthenticated",
+            "serve": "/login"
+        }
+    ]
+}
