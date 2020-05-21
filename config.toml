@@ -1,5 +1,15 @@
-baseURL = "http://example.org/"
+baseURL = "https://proud-sand-08fb93100.azurestaticapps.net"
 languageCode = "ja-jp"
 title = "Static Webapps Hugo Sample"
 
 theme = "hugo-theme-mixedpaper"
+
+[[menu.main]]
+name = "Public"
+identifier = "public"
+url = "/public"
+
+[[menu.main]]
+name = "Private"
+identifier = "private"
+url = "/private"
