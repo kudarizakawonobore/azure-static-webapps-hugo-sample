@@ -6,7 +6,7 @@
         },
         {
             "route": "/private/*",
-            "allowedRoles": ["authenticated"]
+            "allowedRoles": ["reader"]
         }
     ],
     "platformErrorOverrides": [
